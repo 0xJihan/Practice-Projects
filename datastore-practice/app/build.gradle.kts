@@ -65,12 +65,6 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
 
 
-    //* coil image
-    implementation(libs.coil.compose)
-    implementation(libs.coil.network.okhttp)
-    //* retrofit networking
-    implementation(libs.retrofit)
-    implementation(libs.converter.kotlinx.serialization)
 
 
     //*koin
@@ -85,16 +79,8 @@ dependencies {
     implementation(libs.androidx.lifecycle.viewmodel.compose)
     implementation(libs.kotlinx.serialization.json)
 
-    //* debug
-    debugImplementation(libs.leakcanary.android)
 
-    //* Room
-    implementation(libs.room.ktx)
-    implementation(libs.androidx.room.runtime)
-
-    ksp(libs.androidx.room.compiler)
-
-
+    implementation("androidx.datastore:datastore-preferences:1.1.1")
 
 
 }
