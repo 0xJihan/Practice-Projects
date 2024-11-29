@@ -85,11 +85,6 @@ fun MainApp(modifier: Modifier = Modifier) {
             }
         }) { Text("Retrieve with readData") }
 
-        Button(onClick = {
-            CoroutineScope(Dispatchers.IO).launch {
-                data = datastore.getData(key)?:"null"
-            }
-        }) { Text("Retrieve with getData") }
 
 
     }
