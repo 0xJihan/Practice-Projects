@@ -1,0 +1,2718 @@
+[
+    {
+        "category": "bangla",
+        "id": 1,
+        "image": " https://i.imgur.com/Zp62Nbd.png",
+        "name": " Deen TV ",
+        "url": " https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8"
+    },
+    {
+        "category": "bangla",
+        "id": 2,
+        "image": " https://i.imgur.com/PzqzgMm.png",
+        "name": " Deshi TV ",
+        "url": " https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
+    },
+    {
+        "category": "bangla",
+        "id": 3,
+        "image": " https://i.imgur.com/lRpkGHj.png",
+        "name": " Ekushey TV ",
+        "url": " https://ekusheyserver.com/etvlivesn.m3u8"
+    },
+    {
+        "category": "bangla",
+        "id": 4,
+        "image": " https://pbs.twimg.com/profile_images/1104268476858937351/USUT4ykS_400x400.png",
+        "name": " High News ",
+        "url": " https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8"
+    },
+    {
+        "category": "bangla",
+        "id": 5,
+        "image": " https://i.imgur.com/E8VwnK7.png",
+        "name": " iON TV ",
+        "url": " https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8"
+    },
+    {
+        "category": "bangla",
+        "id": 6,
+        "image": " https://i.imgur.com/bYiRfAg.png",
+        "name": " MTA1 World ",
+        "url": " https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8"
+    },
+    {
+        "category": "bangla",
+        "id": 7,
+        "image": " https://i.imgur.com/aVts0sz.png",
+        "name": " MTA2 Europe ",
+        "url": " https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8"
+    },
+    {
+        "category": "bangla",
+        "id": 8,
+        "image": " https://i.imgur.com/nhCNPJI.png",
+        "name": " MTA6 Asia ",
+        "url": " https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8"
+    },
+    {
+        "category": "bangla",
+        "id": 9,
+        "image": " https://i.imgur.com/3Nl8Tpu.png",
+        "name": " MTA7 Asia ",
+        "url": " https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8"
+    },
+    {
+        "category": "bangla",
+        "id": 10,
+        "image": " https://i.imgur.com/XUnWcZF.png",
+        "name": " R Plus ",
+        "url": " https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8"
+    },
+    {
+        "category": "bangla",
+        "id": 11,
+        "image": " https://i.imgur.com/szAGBCU.png",
+        "name": " Vokta TV ",
+        "url": " https://vokta.raytahost.com/live/voktatv/index.m3u8"
+    },
+    {
+        "category": "bangla",
+        "id": 12,
+        "image": " https://i.imgur.com/vSz2WEp.png",
+        "name": " BBC News Asia Pacific ",
+        "url": " https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8"
+    },
+    {
+        "category": "bangla",
+        "id": 13,
+        "image": " https://i.imgur.com/PzqzgMm.png",
+        "name": " Deshi TV ",
+        "url": " https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
+    },
+    {
+        "category": "bangla",
+        "id": 14,
+        "image": " https://i.imgur.com/lRpkGHj.png",
+        "name": " Ekushey TV ",
+        "url": " https://ekusheyserver.com/etvlivesn.m3u8"
+    },
+    {
+        "category": "bangla",
+        "id": 15,
+        "image": " https://i.imgur.com/F8ZM25a.png",
+        "name": " EWTN Africa Asia ",
+        "url": " https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8"
+    },
+    {
+        "category": "bangla",
+        "id": 16,
+        "image": " https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png",
+        "name": " EWTN Asia-Pacific ",
+        "url": " https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8"
+    },
+    {
+        "category": "bangla",
+        "id": 17,
+        "image": "No Logo",
+        "name": " JaTV ",
+        "url": " https://cloud2.smartsolbd.com/live/jatvbd/index.m3u8"
+    },
+    {
+        "category": "bangla",
+        "id": 18,
+        "image": " https://i.imgur.com/ow1HArj.png",
+        "name": " TVE Internacional Europe-Asia ",
+        "url": " https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8"
+    },
+    {
+        "category": "bangla",
+        "id": 19,
+        "image": " https://i.imgur.com/szAGBCU.png",
+        "name": " Vokta TV ",
+        "url": " https://vokta.raytahost.com/live/voktatv/index.m3u8"
+    },
+    {
+        "category": "bangla",
+        "id": 20,
+        "image": " https://i.imgur.com/o0eevnb.png",
+        "name": " Zarok TV Sorani ",
+        "url": " https://zindisorani.zaroktv.com.tr/hls/stream.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 21,
+        "image": " https://yt3.googleusercontent.com/ytc/AIdro_nZG4BRWT5t0eCtM-SFVh0JMexLekw0evo-J4_S8Bw3YA=s512-c-k-c0x00ffffff-no-rj",
+        "name": " 3 Tamil TV ",
+        "url": " https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 22,
+        "image": " https://i.imgur.com/RpIdCB3.png",
+        "name": " Aaj Tak",
+        "url": " https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 23,
+        "image": " https://i.imgur.com/LyDxqnF.png",
+        "name": " Aastha Bhajan ",
+        "url": " https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b264000.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 24,
+        "image": " https://i.imgur.com/VcZn60X.png",
+        "name": " ABN TV India ",
+        "url": " https://mediaserver.abnvideos.com/streams/abntvindia.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 25,
+        "image": " https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ABP_Ganga.svg/512px-ABP_Ganga.svg.png",
+        "name": " ABP Ganga ",
+        "url": " https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 26,
+        "image": " https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/512px-ABP_Majha_logo.svg.png",
+        "name": " ABP Majha ",
+        "url": " https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 27,
+        "image": " https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png",
+        "name": " ABP News ",
+        "url": " https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 28,
+        "image": " https://i.imgur.com/WdSjlPl.png",
+        "name": " Amrita TV ",
+        "url": " https://dr1zhpsuem5f4.cloudfront.net/master.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 29,
+        "image": " https://i.imgur.com/sh0yFSf.png",
+        "name": " Anjan ",
+        "url": " https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 30,
+        "image": " https://i.imgur.com/IM4D8Wz.png",
+        "name": " Apna Punjab TV ",
+        "url": " https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 31,
+        "image": " https://i.imgur.com/LrHGfdC.png",
+        "name": " Asianet News ",
+        "url": " https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 32,
+        "image": " https://i.imgur.com/19joZ1o.png",
+        "name": " Asianet News Kannada ",
+        "url": " https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 33,
+        "image": " https://i.imgur.com/pGA2R8l.png",
+        "name": " Asianet News Tamil ",
+        "url": " https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 34,
+        "image": " https://i.imgur.com/PWzvp0B.png",
+        "name": " Ayush TV ",
+        "url": " https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 35,
+        "image": " https://i.imgur.com/oxkkWH5.png",
+        "name": " Balle Balle ",
+        "url": " https://mcncdndigital.com/balleballetv/index.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 36,
+        "image": " https://i.imgur.com/vSz2WEp.png",
+        "name": " BBC News Asia Pacific ",
+        "url": " https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 37,
+        "image": " https://i.imgur.com/x5f8E3K.png",
+        "name": " Bharat Samachar TV ",
+        "url": " https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 38,
+        "image": "No Logo",
+        "name": " Channel Y ",
+        "url": " http://cdn19.live247stream.com/channely/tv/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 39,
+        "image": " https://i.imgur.com/WrmeIco.png",
+        "name": " CNN News 18",
+        "url": " https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 40,
+        "image": " https://i.imgur.com/H4f9R7n.png",
+        "name": " DD News ",
+        "url": " https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 41,
+        "image": " https://i.ibb.co/GkNXcLX/logo.png",
+        "name": " Desi Channel ",
+        "url": " https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 42,
+        "image": " https://i.imgur.com/jSedjXf.png",
+        "name": " Dheeran TV ",
+        "url": " https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 43,
+        "image": " https://i.imgur.com/8LZS3z6.png",
+        "name": " DY 365 ",
+        "url": " https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 44,
+        "image": " https://i.imgur.com/vCaPNTe.png",
+        "name": " E 24",
+        "url": " https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 45,
+        "image": "No Logo",
+        "name": " Eagle One News ",
+        "url": " https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 46,
+        "image": " https://i.imgur.com/rMldFW8.png",
+        "name": " EET TV ",
+        "url": " https://live.streamjo.com/eetlive/eettv.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 47,
+        "image": " https://i.imgur.com/F8ZM25a.png",
+        "name": " EWTN Africa Asia ",
+        "url": " https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 48,
+        "image": " https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png",
+        "name": " EWTN Asia-Pacific ",
+        "url": " https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 49,
+        "image": " https://i.imgur.com/DTRPV6B.png",
+        "name": " Filmstream",
+        "url": " https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 50,
+        "image": " https://i.imgur.com/ArRZRM3.png",
+        "name": " Gaunda Punjab TV",
+        "url": " http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 51,
+        "image": " https://i.imgur.com/JRjcYGl.jpg",
+        "name": " GDNS Ludhiana ",
+        "url": " http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 52,
+        "image": " https://i.imgur.com/WDLqcWW.png",
+        "name": " Global Punjab ",
+        "url": " https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 53,
+        "image": " https://i.imgur.com/ZrvoGqS.png",
+        "name": " GoodNews TV ",
+        "url": " https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 54,
+        "image": " https://i.imgur.com/srOoujm.png",
+        "name": " Grace Family TV ",
+        "url": " https://gracefamilytv.livebox.co.in/gracefamilytvhls/live.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 55,
+        "image": " https://i.imgur.com/Aoq6mpT.png",
+        "name": " Harvest TV ",
+        "url": " https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 56,
+        "image": " https://i.imgur.com/1DyPuIt.png",
+        "name": " Harvest TV Keralam ",
+        "url": " https://live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 57,
+        "image": " https://pbs.twimg.com/profile_images/1104268476858937351/USUT4ykS_400x400.png",
+        "name": " High News ",
+        "url": " https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 58,
+        "image": " https://i.imgur.com/wPzPUrK.png",
+        "name": " Hope Channel India ",
+        "url": " https://videodelivery.net/98334a974d26e45759c6baa8bceabbcf/manifest/video.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 59,
+        "image": "No Logo",
+        "name": " Hulchul TV ",
+        "url": " http://cdn12.henico.net:8080/live/jbani/index.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 60,
+        "image": " https://i.imgur.com/reHjjRZ.png",
+        "name": " Hyder TV",
+        "url": " https://cdn.live247stream.com/hyder/tv/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 61,
+        "image": " https://i.imgur.com/2LbR2a0.png",
+        "name": " IBC 24 ",
+        "url": " https://livetv.ibc24.in/livestream.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 62,
+        "image": " https://i.imgur.com/koFYddE.png",
+        "name": " India Today ",
+        "url": " https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 63,
+        "image": " https://i.ibb.co/jT3NCPp/logo-tv.png",
+        "name": " Indywood TV ",
+        "url": " https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 64,
+        "image": " https://i.imgur.com/Es3QiVx.png",
+        "name": " INH 24x7 ",
+        "url": " https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 65,
+        "image": "No Logo",
+        "name": " InWild ",
+        "url": " https://inwild-samsungindia.amagi.tv/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 66,
+        "image": " https://i.imgur.com/tsPPU1Y.png",
+        "name": " Ishwar Bhakti TV ",
+        "url": " https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 67,
+        "image": " https://i.imgur.com/0nKfwhV.png",
+        "name": " Janta TV ",
+        "url": " https://live.wmncdn.net/jantatv/live.stream/index.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 68,
+        "image": " https://i.imgur.com/LeBL7ML.png",
+        "name": " K News India ",
+        "url": " https://knews.livebox.co.in/youtubehls/live.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 69,
+        "image": " https://i.imgur.com/ZDXVWVQ.png",
+        "name": " Kalaignar Murasu ",
+        "url": " https://segment.yuppcdn.net/050522/murasu/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 70,
+        "image": " https://upload.wikimedia.org/wikipedia/en/7/74/Kaumudy_TV_Logo.jpg",
+        "name": " Kaumudy TV ",
+        "url": " https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 71,
+        "image": " https://i.imgur.com/bkp9dIm.png",
+        "name": " KCL TV ",
+        "url": " https://kcltv.livebox.co.in/kclhls/live.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 72,
+        "image": " https://i.imgur.com/kj4OEsb.png",
+        "name": " KITE Victers ",
+        "url": " https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 73,
+        "image": " https://i.imgur.com/QavgfiK.png",
+        "name": " Lok Sabha TV ",
+        "url": " https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 74,
+        "image": " https://i.imgur.com/UBBaXzz.png",
+        "name": " Madha TV ",
+        "url": " https://60e68b19dd194.streamlock.net:55/madhatv/madhatv.stream_HDp/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 75,
+        "image": " https://i.imgur.com/klNH4tV.png",
+        "name": " Mercy TV ",
+        "url": " https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 76,
+        "image": " https://i.imgur.com/cFNw4Af.png",
+        "name": " MNTV ",
+        "url": " https://mntv.livebox.co.in/mntvhls/live.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 77,
+        "image": " https://i.ibb.co/NynvtQm/1-210414213-U60-L.jpg",
+        "name": " MNTV Music ",
+        "url": " https://mntv.livebox.co.in/musichls/live.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 78,
+        "image": " https://i.imgur.com/3l25EZI.png",
+        "name": " Moon TV ",
+        "url": " https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 79,
+        "image": " https://i.imgur.com/xnjkUOs.png",
+        "name": " Nambikkai TV ",
+        "url": " https://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 80,
+        "image": " https://i.imgur.com/NalsXTo.png",
+        "name": " Namdhari ",
+        "url": " https://namdhari.tv/live/sbs1.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 81,
+        "image": " https://i.imgur.com/cxneGRS.png",
+        "name": " Nandighosha TV ",
+        "url": " https://www.nandighoshatvlive.com/hls/stream/index.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 82,
+        "image": " https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png",
+        "name": " NDTV 24X7 ",
+        "url": " https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 83,
+        "image": " https://i.imgur.com/PyDjUZB.png",
+        "name": " NDTV India ",
+        "url": " https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 84,
+        "image": " https://i.imgur.com/K3hlwDk.png",
+        "name": " News 1st ",
+        "url": " https://932y4563djv8-hls-live.qezycdn.com/newsfirst/cb582cc2f3b08e0bbd1c9f3d23541e26.sdp/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 85,
+        "image": " https://i.imgur.com/x72O77X.png",
+        "name": " News 24 ",
+        "url": " https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 86,
+        "image": " https://i.imgur.com/6Jh8LRI.png",
+        "name": " One TV ",
+        "url": " http://137.59.86.218:1935/live/onetv/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 87,
+        "image": " https://i.imgur.com/HNsg5Px.png",
+        "name": " Pratham Khabar 24x7 ",
+        "url": " https://livelegitpro.in/hls2/newstime/index.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 88,
+        "image": " https://i.imgur.com/1dHarb7.png",
+        "name": " Pravasi Channel ",
+        "url": " https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 89,
+        "image": " https://i.imgur.com/DG0x4UD.png",
+        "name": " Prudent Media ",
+        "url": " https://prudentmcdn.rixcast.com/prudentm.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 90,
+        "image": " https://i.imgur.com/4lUwdME.png",
+        "name": " PTC Chakde ",
+        "url": " https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 91,
+        "image": " https://i.ibb.co/C0y7yFJ/Ptc-Dhol-tv.jpg",
+        "name": " PTC Dhol ",
+        "url": " https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 92,
+        "image": " https://i.imgur.com/8PHk66Q.png",
+        "name": " PTC Music ",
+        "url": " https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 93,
+        "image": " https://i.imgur.com/nbUMvaR.png",
+        "name": " PTC Punjabi ",
+        "url": " https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 94,
+        "image": " https://i.imgur.com/g88pV3L.png",
+        "name": " PTC Punjabi Gold ",
+        "url": " https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 95,
+        "image": " https://i.imgur.com/T5VK7G5.png",
+        "name": " PTC Simran ",
+        "url": " https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 96,
+        "image": " https://i.imgur.com/v5urG30.png",
+        "name": " Pulari TV ",
+        "url": " https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 97,
+        "image": " https://i.imgur.com/XUnWcZF.png",
+        "name": " R Plus ",
+        "url": " https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 98,
+        "image": " https://rdxgoa.com/news/wp-content/uploads/2018/07/cropped-RDX-NW-LOGO-8-1.png",
+        "name": " RDX Goa ",
+        "url": " https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 99,
+        "image": " https://i.imgur.com/8hnJuxa.png",
+        "name": " Real News Kerala ",
+        "url": " https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 100,
+        "image": " https://i.ibb.co/cXPzpGp/SADA-CHANNEL-HBN-global-Punjabi-Satellite-TV.png",
+        "name": " Sada TV ",
+        "url": " http://cdn12.henico.net:8080/live/sadatv/index.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 101,
+        "image": " https://i.imgur.com/x13iiuI.png",
+        "name": " Sadhna ",
+        "url": " https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 102,
+        "image": " https://i.imgur.com/h4UehKC.png",
+        "name": " Sadhna Plus News ",
+        "url": " https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 103,
+        "image": " https://i.imgur.com/dSOfYyh.png",
+        "name": " Safari TV ",
+        "url": " https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
+    },
+    {
+        "category": "India",
+        "id": 104,
+        "image": " https://i.ibb.co/cLXkYvr/IMG-20230610-140232.jpg",
+        "name": " Samachar Plus ",
+        "url": " https://samacharplus.livebox.co.in/samacharplushls/live.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 105,
+        "image": " https://i.imgur.com/hiN166x.png",
+        "name": " 43 канал ",
+        "url": " http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 106,
+        "image": " https://i.ibb.co/3m9LrLj/k7gIibH.png",
+        "name": " 312 Кино ",
+        "url": " http://176.126.166.43:1935/live/312kino/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 107,
+        "image": " https://i.imgur.com/NCqZdaL.png",
+        "name": " ABN Bible Movies ",
+        "url": " https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 108,
+        "image": " https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",
+        "name": " Action 24 ",
+        "url": " http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 109,
+        "image": " https://i.ibb.co/zfdbVSm/logo-1.png",
+        "name": " Afghan Nobel Movies ",
+        "url": " https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 110,
+        "image": " https://i.imgur.com/aESdqiB.png",
+        "name": " Afriwood Blockbuster ",
+        "url": " https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 111,
+        "image": " https://i.imgur.com/wnVEvRM.png",
+        "name": " Alfa Dramas ",
+        "url": " https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 112,
+        "image": " https://alternatv.ar/alternatv.png",
+        "name": " AlternaTV ",
+        "url": " https://alternatv.ar/stream/hls/live.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 113,
+        "image": " https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",
+        "name": " AMC ",
+        "url": " https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 114,
+        "image": " https://i.imgur.com/UUjehw9.png",
+        "name": " Amedia Premium",
+        "url": " http://stream01.vnet.am/AmediaPremium/mono.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 115,
+        "image": " https://i.imgur.com/IkYZQ9S.png",
+        "name": " American Classics ",
+        "url": " https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 116,
+        "image": " https://static.wikia.nocookie.net/logopedia/images/9/9c/Atvnew.png/revision/latest/scale-to-width-down/512",
+        "name": " ATV Kinoman HD",
+        "url": " http://stream02.vnet.am/Kinoman/mono.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 117,
+        "image": " https://i.imgur.com/QwBGLzK.png",
+        "name": " AVA Family ",
+        "url": " https://familyhls.avatv.live/hls/stream.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 118,
+        "image": " https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png",
+        "name": " AXN",
+        "url": " https://streamer1.nexgen.bz/AXN/index.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 119,
+        "image": " https://i.imgur.com/kNGpFHX.png",
+        "name": " Bizzarro Movies",
+        "url": " https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 120,
+        "image": " https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg",
+        "name": " Bravo Farsi TV ",
+        "url": " https://bravoohls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 121,
+        "image": " https://i.imgur.com/S4xqZgV.png",
+        "name": " Canal Cine Dios ",
+        "url": " https://canal.mediaserver.com.co/live/cinedios.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 122,
+        "image": " https://i.imgur.com/1rxmu2u.png",
+        "name": " Charge! ",
+        "url": " https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 123,
+        "image": " https://i.imgur.com/AmcOAIY.png",
+        "name": " Cine5 ",
+        "url": " https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 124,
+        "image": " https://i.imgur.com/rGAOD3f.png",
+        "name": " Cine Mo! ",
+        "url": " https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 125,
+        "image": " https://i.imgur.com/bZWoDTg.png",
+        "name": " Cine Sony ",
+        "url": " https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 126,
+        "image": " https://i.imgur.com/uV5cHDW.png",
+        "name": " Cinema Hausa ",
+        "url": " https://origin3.afxp.telemedia.co.za/PremiumFree/cinemahausa/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 127,
+        "image": " https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png",
+        "name": " Cinema One ",
+        "url": " https://cinemaone-abscbn-ono.amagi.tv/index.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 128,
+        "image": " https://i.imgur.com/CD0sMAa.png",
+        "name": " Cinema Segreto",
+        "url": " https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 129,
+        "image": " https://i.imgur.com/FJoPnTb.png",
+        "name": " Classic Cinema ",
+        "url": " https://bozztv.com/gusa/gusa-classiccinema/index.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 130,
+        "image": " https://i.imgur.com/rHxcraT.png",
+        "name": " Classique TV ",
+        "url": " https://stmv1.srvif.com/classique/classique/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 131,
+        "image": " https://i.imgur.com/rHxcraT.png",
+        "name": " Classique TV Western ",
+        "url": " https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 132,
+        "image": " https://i.imgur.com/ZkRQ0r1.png",
+        "name": " Crave 1 ",
+        "url": " http://fl3.moveonjoy.com/CRAVE_1/index.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 133,
+        "image": " https://i.imgur.com/kOi0Adn.png",
+        "name": " Crave 3 ",
+        "url": " http://fl3.moveonjoy.com/CRAVE_3/index.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 134,
+        "image": " https://i.imgur.com/oMnpsQ5.png",
+        "name": " DiscoverFilm",
+        "url": " https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 135,
+        "image": " https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",
+        "name": " Dunia Sinema ",
+        "url": " https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 136,
+        "image": " https://i.imgur.com/fewPTFE.png",
+        "name": " EBS Cinema ",
+        "url": " https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 137,
+        "image": " https://i.imgur.com/MRU0d3y.png",
+        "name": " Film Hub ",
+        "url": " https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 138,
+        "image": " https://upload.wikimedia.org/wikipedia/en/3/39/Unsolved_mysteries_logo.png",
+        "name": " FilmRise Forensic Files ",
+        "url": " https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 139,
+        "image": " https://i.imgur.com/8j2npVc.png",
+        "name": " FilmRise Free Movies ",
+        "url": " https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 140,
+        "image": " https://i.imgur.com/DTRPV6B.png",
+        "name": " Filmstream",
+        "url": " https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 141,
+        "image": " https://i.imgur.com/jEyrlPp.jpg",
+        "name": " Freedom Movie Sphere ",
+        "url": " https://panel.freedomflixtv.org:3311/stream/play.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 142,
+        "image": " https://www.lyngsat.com/logo/tv/gg/grand-cinema.png",
+        "name": " Grand Cinema",
+        "url": " https://gcinemahls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 143,
+        "image": " https://i.imgur.com/H2hD4vT.png",
+        "name": " Gravitas Movies ",
+        "url": " https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 144,
+        "image": " https://i.imgur.com/ZYNQuf1.png",
+        "name": " Groovy TV ",
+        "url": " http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 145,
+        "image": " https://i.imgur.com/fPphLl1.png",
+        "name": " HBC",
+        "url": " https://ffs3.gulfsat.com/hbc/index.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 146,
+        "image": " https://i.imgur.com/1j7cT2I.png",
+        "name": " Hollywood",
+        "url": " http://stream01.vnet.am/ParamountChannel/mono.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 147,
+        "image": " https://i.imgur.com/QxFC11S.png",
+        "name": " iFilm 2",
+        "url": " https://cdnlive.presstv.ir/ifilmlive/smil:ifilm2.smil/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 148,
+        "image": " https://i.imgur.com/k5WdrWx.png",
+        "name": " iFilm Arabic",
+        "url": " https://cdnlive.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 149,
+        "image": " https://i.imgur.com/7rZbIYb.png",
+        "name": " iFilm English",
+        "url": " https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 150,
+        "image": " https://i.imgur.com/JKpybpt.png",
+        "name": " iFilm Persian",
+        "url": " https://cdnlive.presstv.ir/ifilmlive/smil:ifilmfa.smil/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 151,
+        "image": " https://i.ibb.co/jT3NCPp/logo-tv.png",
+        "name": " Indywood TV ",
+        "url": " https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 152,
+        "image": " https://i.imgur.com/CZViCwB.jpg",
+        "name": " Kuriakos Cine ",
+        "url": " https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 153,
+        "image": " https://i.imgur.com/p16HNIM.png",
+        "name": " Made in Hollywood",
+        "url": " https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 154,
+        "image": " https://i.imgur.com/TTAGFHG.png",
+        "name": " MBC Bollywood ",
+        "url": " https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 155,
+        "image": " https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png",
+        "name": " Meta Film TV ",
+        "url": " https://metafilmhls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 156,
+        "image": " https://i.imgur.com/S2VUrO8.png",
+        "name": " MGM+ East",
+        "url": " http://fl2.moveonjoy.com/EPIX/index.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 157,
+        "image": " https://i.imgur.com/FqHLJmN.png",
+        "name": " MovieFe ",
+        "url": " https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 158,
+        "image": " https://i.imgur.com/HYgxPVQ.png",
+        "name": " MyTime Movie Network",
+        "url": " https://mytime-tcl.amagi.tv/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 159,
+        "image": " https://i.imgur.com/aiGQtzI.png",
+        "name": " MyTime Movie Network Brazil ",
+        "url": " https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 160,
+        "image": " https://i.imgur.com/pw4NZK1.png",
+        "name": " MyTime Movie Network Mexico ",
+        "url": " https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 161,
+        "image": " https://i.imgur.com/pw4NZK1.png",
+        "name": " MyTime movie network Spain ",
+        "url": " https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 162,
+        "image": " https://i.imgur.com/WXRBuOW.png",
+        "name": " NETV Toronto ",
+        "url": " https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 163,
+        "image": " https://i.imgur.com/c2rF3SS.png",
+        "name": " Next HD ",
+        "url": " https://live.enhdtv.com:19360/nexthd/nexthd.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 164,
+        "image": " https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",
+        "name": " Paramount Network East",
+        "url": " http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 165,
+        "image": " https://i.imgur.com/hgIro9r.png",
+        "name": " Persiana Cinema",
+        "url": " https://cinehls.persiana.live/hls/stream.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 166,
+        "image": " https://i.imgur.com/lMZsuWi.png",
+        "name": " Persiana Family",
+        "url": " https://familyhls.persiana.live/hls/stream.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 167,
+        "image": " https://i.ibb.co/ZYDqMms/Persiana-HD.png",
+        "name": " Persiana HD",
+        "url": " https://euhls.persiana.live/hls/stream.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 168,
+        "image": " https://i.imgur.com/vqrrpBi.png",
+        "name": " Persiana Iranian",
+        "url": " https://irhls.persiana.live/hls/stream.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 169,
+        "image": " https://i.imgur.com/si2ZnIA.png",
+        "name": " Persiana Korea",
+        "url": " https://korhls.persiana.live/hls/stream.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 170,
+        "image": " https://i.imgur.com/X1Dv6st.png",
+        "name": " Persiana One",
+        "url": " https://onehls.persiana.live/hls/stream.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 171,
+        "image": " https://i.imgur.com/NJYEYE3.png",
+        "name": " Rakuten Spotlight France ",
+        "url": " https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 172,
+        "image": " https://i.imgur.com/NJYEYE3.png",
+        "name": " Rakuten TV Perhe",
+        "url": " https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 173,
+        "image": " https://i.imgur.com/NJYEYE3.png",
+        "name": " Rakuten TV Rakuten Stories",
+        "url": " https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 174,
+        "image": " https://www.washingtonblade.com/content/files/2020/01/QUEER_STREAMING_SERVICE_ADOPTS-LGBT_TOKEN_FEATURED_WB_10012020-e1578680670538.jpeg",
+        "name": " Revry Her",
+        "url": " https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 175,
+        "image": " https://i.imgur.com/pGgp38I.png",
+        "name": " Rotana Cinema KSA ",
+        "url": " https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 176,
+        "image": " https://i.imgur.com/n9cuM2W.jpg",
+        "name": " SL 1 ",
+        "url": " https://slonehls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 177,
+        "image": " https://i.imgur.com/BVuUx5R.jpg",
+        "name": " SL 2 ",
+        "url": " https://sltwohls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "category": "movies",
+        "id": 178,
+        "image": " https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png",
+        "name": " Star Channel Central America",
+        "url": " https://streamer1.nexgen.bz/STAR/index.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 179,
+        "image": " https://i.imgur.com/iBcqT8L.png",
+        "name": " 3ABN Praise Him Music Network",
+        "url": " https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 180,
+        "image": " https://i.imgur.com/gNWg9tl.png",
+        "name": " 30A Music Channel",
+        "url": " https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 181,
+        "image": " https://www.51news.it/images/loghi/logo_tv_radio_51news.png",
+        "name": " 51 Radio TV ",
+        "url": " http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 182,
+        "image": " https://i.imgur.com/y4kNV3Q.png",
+        "name": " 70-80 TV ",
+        "url": " https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 183,
+        "image": " https://i.imgur.com/i3YwORV.png",
+        "name": " 88 Stereo ",
+        "url": " http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 184,
+        "image": " https://i.imgur.com/GY750xh.jpg",
+        "name": " 98.1 Pearl FM ",
+        "url": " https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 185,
+        "image": " https://i.imgur.com/Fykhzxh.jpg",
+        "name": " A2i Music ",
+        "url": " https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 186,
+        "image": " https://i.imgur.com/VCUZKiw.png",
+        "name": " Activa TV ",
+        "url": " https://streamtv.mediasector.es/hls/activatv/index.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 187,
+        "image": " https://i.imgur.com/425dj2i.jpeg",
+        "name": " AE Radio TV ",
+        "url": " https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 188,
+        "image": " https://i.imgur.com/LctanF8.png",
+        "name": " AFN TV ",
+        "url": " https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 189,
+        "image": " https://i.imgur.com/232ndRK.png",
+        "name": " Afrobeats ",
+        "url": " https://stream.ecable.tv/afrobeats/index.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 190,
+        "image": " https://i.imgur.com/o6HSfNg.png",
+        "name": " Aghani Aghani TV ",
+        "url": " https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 191,
+        "image": " https://i.imgur.com/JdKxscs.png",
+        "name": " AlbKanale Music TV ",
+        "url": " https://albportal.net/albkanalemusic.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 192,
+        "image": " https://i.imgur.com/36b9R2k.png",
+        "name": " Alpen-Welle TV ",
+        "url": " https://edge13.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/manifest.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 193,
+        "image": " https://alternatv.ar/alternatv.png",
+        "name": " AlternaTV ",
+        "url": " https://alternatv.ar/stream/hls/live.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 194,
+        "image": " https://i.imgur.com/yj8RNnG.png",
+        "name": " AMC ",
+        "url": " https://amchls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 195,
+        "image": " https://i.imgur.com/2pAHdAi.png",
+        "name": " Amedia 1",
+        "url": " http://31.148.48.15/A1/index.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 196,
+        "image": " https://i.imgur.com/06zuf64.png",
+        "name": " AMusic Channel ",
+        "url": " http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 197,
+        "image": " https://i.imgur.com/sTOoDy1.png",
+        "name": " Arabica TV ",
+        "url": " http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 198,
+        "image": " https://i.imgur.com/ZbrDIbZ.png",
+        "name": " Atomic Academy TV ",
+        "url": " https://atomic.streamnet.ro/academia.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 199,
+        "image": " https://i.imgur.com/O4uI0Uy.png",
+        "name": " Atomic TV ",
+        "url": " https://atomic.streamnet.ro/atomictv.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 200,
+        "image": " https://i.imgur.com/3I1n7fO.png",
+        "name": " Avang TV ",
+        "url": " https://hls.avang.live/hls/stream.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 201,
+        "image": " https://i.imgur.com/g1BFoSs.png",
+        "name": " Azahares Radio Multimedia ",
+        "url": " https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 202,
+        "image": " https://i.imgur.com/oxkkWH5.png",
+        "name": " Balle Balle ",
+        "url": " https://mcncdndigital.com/balleballetv/index.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 203,
+        "image": " https://i.imgur.com/TZ1unwF.png",
+        "name": " Baraza TV Deep House ",
+        "url": " https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 204,
+        "image": " https://i.imgur.com/TZ1unwF.png",
+        "name": " Baraza TV Relaxing ",
+        "url": " https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 205,
+        "image": " https://i.imgur.com/jbbxu0g.png",
+        "name": " Barbud Music ",
+        "url": " https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 206,
+        "image": " https://i.imgur.com/egK33Dj.png",
+        "name": " BE@TTV ",
+        "url": " https://tv.beatfm.nl/live.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 207,
+        "image": " https://i.imgur.com/zkNUO5p.png",
+        "name": " Beats Radio ",
+        "url": " https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 208,
+        "image": " https://i.imgur.com/vJlAZsV.png",
+        "name": " Bel RTL ",
+        "url": " https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8"
+    },
+    {
+        "category": "music",
+        "id": 209,
+        "image": " https://i.imgur.com/yIqOcP5.png",
+        "name": " Bibel TV Musik ",
+        "url": " https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8"
+    },
+    {
+        "category": "animation",
+        "id": 210,
+        "image": " https://i.imgur.com/SUPQAok.png",
+        "name": " 3ABN Kids",
+        "url": " https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
+    },
+    {
+        "category": "animation",
+        "id": 211,
+        "image": " https://i.imgur.com/CFSSTID.png",
+        "name": " Anime TV ",
+        "url": " https://stmv1.srvif.com/animetv/animetv/playlist.m3u8"
+    },
+    {
+        "category": "animation",
+        "id": 212,
+        "image": " https://i.imgur.com/AHaXlCh.png",
+        "name": " Anime Zone TV ",
+        "url": " http://animezonetv.net/hls/stream.m3u8"
+    },
+    {
+        "category": "animation",
+        "id": 213,
+        "image": " https://i.imgur.com/px0CSti.png",
+        "name": " Blues TV",
+        "url": " https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8"
+    },
+    {
+        "category": "animation",
+        "id": 214,
+        "image": " https://i.imgur.com/49LrRwJ.png",
+        "name": " CONtv Anime ",
+        "url": " https://contvanime-roku-ingest.cinedigm.com/master.m3u8"
+    },
+    {
+        "category": "animation",
+        "id": 215,
+        "image": " https://cdn.energeek.cl/logos/Marca-512.png",
+        "name": " EnerGeek ",
+        "url": " https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8"
+    },
+    {
+        "category": "animation",
+        "id": 216,
+        "image": " https://cdn.energeek.cl/logos/Fanpop-512.png",
+        "name": " Fanpop TV",
+        "url": " https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8"
+    },
+    {
+        "category": "animation",
+        "id": 217,
+        "image": " https://i.imgur.com/jML1u4O.png",
+        "name": " Geekdot ",
+        "url": " https://stream.ichibantv.com:3764/hybrid/play.m3u8"
+    },
+    {
+        "category": "animation",
+        "id": 218,
+        "image": " https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png",
+        "name": " Japanim TV ",
+        "url": " https://foxkidstv.be:3369/stream/play.m3u8"
+    },
+    {
+        "category": "animation",
+        "id": 219,
+        "image": " https://i.imgur.com/SRX6EPY.png",
+        "name": " Kuriakos Kids ",
+        "url": " https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
+    },
+    {
+        "category": "animation",
+        "id": 220,
+        "image": " https://i.imgur.com/1CftDPB.png",
+        "name": " Locomotion TV ",
+        "url": " http://51.222.85.85:81/hls/loco/index.m3u8"
+    },
+    {
+        "category": "animation",
+        "id": 221,
+        "image": " https://i.imgur.com/CMImqQY.png",
+        "name": " Magic Kids ",
+        "url": " https://magicstream.ddns.net/magicstream/stream.m3u8"
+    },
+    {
+        "category": "animation",
+        "id": 222,
+        "image": " https://i.imgur.com/Oj3hEBh.jpg",
+        "name": " MAX Anime ",
+        "url": " https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8"
+    },
+    {
+        "category": "animation",
+        "id": 223,
+        "image": " https://i.imgur.com/zeKHZYG.png",
+        "name": " Persiana Junior",
+        "url": " https://junhls.persiana.live/hls/stream.m3u8"
+    },
+    {
+        "category": "animation",
+        "id": 224,
+        "image": " https://i.imgur.com/M40b4YI.png",
+        "name": " Retro Crush",
+        "url": " https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8"
+    },
+    {
+        "category": "animation",
+        "id": 225,
+        "image": " https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
+        "name": " Spacetoon ",
+        "url": " https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8"
+    },
+    {
+        "category": "animation",
+        "id": 226,
+        "image": " https://i.imgur.com/aSjhZK7.png",
+        "name": " Toonami Aftermath East ",
+        "url": " http://api.toonamiaftermath.com:3000/est/playlist.m3u8"
+    },
+    {
+        "category": "animation",
+        "id": 227,
+        "image": " https://yt3.googleusercontent.com/ytc/AIdro_k6spR1AVLZ0ISqrFP-Z9JeBMHPpAc9T-pmFlG6_lSkNw=s160-c-k-c0x00ffffff-no-rj",
+        "name": " XilamTV ",
+        "url": " https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+        "category": "animation",
+        "id": 228,
+        "image": " https://i.imgur.com/o0eevnb.png",
+        "name": " Zarok TV Sorani ",
+        "url": " https://zindisorani.zaroktv.com.tr/hls/stream.m3u8"
+    },
+    {
+        "category": "classic",
+        "id": 229,
+        "image": " https://i.imgur.com/5Q5qMzP.png",
+        "name": " Dubai Zaman ",
+        "url": " https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8"
+    },
+    {
+        "category": "classic",
+        "id": 230,
+        "image": " https://i.imgur.com/8j2npVc.png",
+        "name": " FilmRise Classic TV on Redbox ",
+        "url": " https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8"
+    },
+    {
+        "category": "classic",
+        "id": 231,
+        "image": " https://i.imgur.com/hIlEfhl.png",
+        "name": " Retrô Cartoon ",
+        "url": " https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8"
+    },
+    {
+        "category": "classic",
+        "id": 232,
+        "image": " https://i.imgur.com/M40b4YI.png",
+        "name": " Retro Crush",
+        "url": " https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8"
+    },
+    {
+        "category": "classic",
+        "id": 233,
+        "image": " https://i.imgur.com/yyz1S2W.png",
+        "name": " TVS Cipher Network ",
+        "url": " https://bozztv.com/gusa/gusa-tvsmystery/index.m3u8"
+    },
+    {
+        "category": "classic",
+        "id": 234,
+        "image": " https://i.imgur.com/st1xMsw.png",
+        "name": " TVS Classic Movies ",
+        "url": " https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8"
+    },
+    {
+        "category": "classic",
+        "id": 235,
+        "image": " https://i.imgur.com/QtQGyMS.png",
+        "name": " TVS Hollywood History ",
+        "url": " https://bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8"
+    },
+    {
+        "category": "classic",
+        "id": 236,
+        "image": " https://i.imgur.com/N9nQpnP.png",
+        "name": " TVS Mainstreet ",
+        "url": " https://bozztv.com/gusa/gusa-tvsmainst/index.m3u8"
+    },
+    {
+        "category": "classic",
+        "id": 237,
+        "image": " https://i.imgur.com/q72FCCQ.png",
+        "name": " TVS Nostalgia ",
+        "url": " https://bozztv.com/gusa/gusa-nostalgia/index.m3u8"
+    },
+    {
+        "category": "classic",
+        "id": 238,
+        "image": " https://i.imgur.com/w4fxiKi.png",
+        "name": " TVS Nostalgia Movies ",
+        "url": " https://bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8"
+    },
+    {
+        "category": "classic",
+        "id": 239,
+        "image": " https://i.imgur.com/oGE1MOP.png",
+        "name": " TVS Pet Parade Network ",
+        "url": " https://bozztv.com/gusa/gusa-petparadenetwork/index.m3u8"
+    },
+    {
+        "category": "classic",
+        "id": 240,
+        "image": " https://i.imgur.com/5ljQwx2.png",
+        "name": " TVS Quiz Show Network ",
+        "url": " https://bozztv.com/gusa/gusa-tvsgameshow/index.m3u8"
+    },
+    {
+        "category": "classic",
+        "id": 241,
+        "image": " https://i.imgur.com/WsaVAhx.png",
+        "name": " TVS Talk Network ",
+        "url": " https://bozztv.com/gusa/gusa-TVStalk/index.m3u8"
+    },
+    {
+        "category": "classic",
+        "id": 242,
+        "image": " https://i.imgur.com/JlFwnDD.png",
+        "name": " TVS Tally Ho ",
+        "url": " https://bozztv.com/gusa/gusa-tvstallyho/index.m3u8"
+    },
+    {
+        "category": "classic",
+        "id": 243,
+        "image": " https://i.imgur.com/3GTIs4j.png",
+        "name": " TVS Tavern ",
+        "url": " https://bozztv.com/gusa/gusa-tavern/index.m3u8"
+    },
+    {
+        "category": "classic",
+        "id": 244,
+        "image": " https://i.imgur.com/dwr98qb.png",
+        "name": " TVS Western Movie ",
+        "url": " https://bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8"
+    },
+    {
+        "category": "classic",
+        "id": 245,
+        "image": " https://i.imgur.com/j91M4Yf.png",
+        "name": " Xtrema Cine Clasico",
+        "url": " https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8"
+    },
+    {
+        "category": "comedy",
+        "id": 246,
+        "image": " https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg",
+        "name": " 30A Ridiculous TV ",
+        "url": " https://30a-tv.com/feeds/720p/63.m3u8"
+    },
+    {
+        "category": "comedy",
+        "id": 247,
+        "image": " https://i.imgur.com/dLSKBEn.png",
+        "name": " AFV Family",
+        "url": " https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+        "category": "comedy",
+        "id": 248,
+        "image": " https://i.imgur.com/V5h4R83.png",
+        "name": " Camera Smile ",
+        "url": " https://bozztv.com/gusa/gusa-camerasmile/index.m3u8"
+    },
+    {
+        "category": "comedy",
+        "id": 249,
+        "image": " https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png",
+        "name": " Comedy Central East ",
+        "url": " http://fl3.moveonjoy.com/Comedy_Central/index.m3u8"
+    },
+    {
+        "category": "comedy",
+        "id": 250,
+        "image": " https://i.imgur.com/t3IjyYJ.png",
+        "name": " Failarmy",
+        "url": " https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+        "category": "comedy",
+        "id": 251,
+        "image": " https://i.imgur.com/17hqLxR.png",
+        "name": " Funny or Die ",
+        "url": " https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8"
+    },
+    {
+        "category": "comedy",
+        "id": 252,
+        "image": " https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png",
+        "name": " KSHB-DT3 ",
+        "url": " https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8"
+    },
+    {
+        "category": "comedy",
+        "id": 253,
+        "image": " https://i.imgur.com/Tiy3Ur2.png",
+        "name": " LOL! Network",
+        "url": " https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+        "category": "comedy",
+        "id": 254,
+        "image": " https://i.imgur.com/8KWjY4o.png",
+        "name": " Mystery Science Theater 3000 ",
+        "url": " https://mst3k-vizio.amagi.tv/playlist.m3u8"
+    },
+    {
+        "category": "comedy",
+        "id": 255,
+        "image": " https://i.imgur.com/DBZ3Pi5.png",
+        "name": " Persiana Comedy",
+        "url": " https://comedyhls.persiana.live/hls/stream.m3u8"
+    },
+    {
+        "category": "comedy",
+        "id": 256,
+        "image": " https://i.imgur.com/rXORbti.png",
+        "name": " TVS Comedy Network ",
+        "url": " https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8"
+    },
+    {
+        "category": "comedy",
+        "id": 257,
+        "image": " https://epgx.site/p/tvoetv-humor.png",
+        "name": " Твое ТВ Юмор",
+        "url": " http://tvoetv.space:8080/tvoetv_humor/index.m3u8"
+    },
+    {
+        "category": "cooking",
+        "id": 258,
+        "image": " https://i.imgur.com/YhFFxlE.png",
+        "name": " bon appétit ",
+        "url": " https://bonappetit-samsung.amagi.tv/playlist.m3u8"
+    },
+    {
+        "category": "cooking",
+        "id": 259,
+        "image": " https://i.imgur.com/15a9pG9.png",
+        "name": " Chef Champion ",
+        "url": " https://bozztv.com/gusa/gusa-chefchampion/index.m3u8"
+    },
+    {
+        "category": "cooking",
+        "id": 260,
+        "image": " https://i.imgur.com/vhVnAzE.png",
+        "name": " Chef Roc Show ",
+        "url": " https://bozztv.com/gusa/gusa-chefrock/index.m3u8"
+    },
+    {
+        "category": "cooking",
+        "id": 261,
+        "image": " https://i.imgur.com/MIUDYh0.png",
+        "name": " Hungry ",
+        "url": " https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8"
+    },
+    {
+        "category": "cooking",
+        "id": 262,
+        "image": " https://i.imgur.com/HrRUd6r.png",
+        "name": " In the kitchen",
+        "url": " https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8"
+    },
+    {
+        "category": "cooking",
+        "id": 263,
+        "image": " https://i.imgur.com/5QQy3aW.png",
+        "name": " Mad Dog and Merrill ",
+        "url": " https://bozztv.com/gusa/gusa-mwg/index.m3u8"
+    },
+    {
+        "category": "cooking",
+        "id": 264,
+        "image": " https://i.imgur.com/XZzINfq.png",
+        "name": " Samira TV ",
+        "url": " https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/samira.m3u8"
+    },
+    {
+        "category": "cooking",
+        "id": 265,
+        "image": " https://i.imgur.com/ju2NyoL.png",
+        "name": " So Yummy! ",
+        "url": " https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8"
+    },
+    {
+        "category": "cooking",
+        "id": 266,
+        "image": " https://i.imgur.com/rR7CLzZ.png",
+        "name": " Tastemade Australia ",
+        "url": " https://tmint-aus-samsungau.amagi.tv/playlist.m3u8"
+    },
+    {
+        "category": "cooking",
+        "id": 267,
+        "image": " https://i.imgur.com/7jxZnuS.png",
+        "name": " Кухня ТВ HD",
+        "url": " http://stream01.vnet.am/KukhnyaTv/mono.m3u8"
+    },
+    {
+        "category": "cooking",
+        "id": 268,
+        "image": " https://i.imgur.com/1H3h1HL.png",
+        "name": " Телекафе",
+        "url": " http://stream01.vnet.am/Telekafe/mono.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 269,
+        "image": " https://i.imgur.com/ls9NLa4.png",
+        "name": " Agro TV ",
+        "url": " https://yayin30.haber100.com/live/agrotv/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 270,
+        "image": " https://i.imgur.com/5FrE3Nv.png",
+        "name": " Al Alamiya 2",
+        "url": " http://82.212.74.98:8000/live/7815.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 271,
+        "image": " https://i.imgur.com/UjOxwdd.png",
+        "name": " Alhiwar TV ",
+        "url": " https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 272,
+        "image": " https://i.imgur.com/MCbCSWv.png",
+        "name": " ALTV ",
+        "url": " https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 273,
+        "image": " https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Architectural_Digest_logo.svg/512px-Architectural_Digest_logo.svg.png",
+        "name": " Architectural Digest ",
+        "url": " https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 274,
+        "image": " https://i.imgur.com/Czxi7yk.png",
+        "name": " Asharq Discovery ",
+        "url": " https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 275,
+        "image": " https://i.imgur.com/tUgEAUJ.png",
+        "name": " Bolton Community Voice Channel ",
+        "url": " https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch2/video.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 276,
+        "image": " https://i.imgur.com/AWLWu91.png",
+        "name": " Canal Catorce",
+        "url": " https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 277,
+        "image": " https://i.imgur.com/OOB7nrS.png",
+        "name": " Canal Educação ",
+        "url": " https://canaleducacao-stream.ebc.com.br/index.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 278,
+        "image": " https://i.imgur.com/KWAuNXn.png",
+        "name": " Charrúa Televisión ",
+        "url": " https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 279,
+        "image": " https://i.imgur.com/M6FFkc3.png",
+        "name": " Classic Arts Showcase",
+        "url": " https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 280,
+        "image": " https://blog-cloudflare-com-assets.storage.googleapis.com/2020/06/twitter-1-1.png",
+        "name": " Cloudflare TV ",
+        "url": " https://cloudflare.tv/hls/live.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 281,
+        "image": " https://i.imgur.com/MRR6UL3.png",
+        "name": " DerryTV 23",
+        "url": " https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 282,
+        "image": " https://i.imgur.com/nLzdGeX.png",
+        "name": " DLTV 1 ",
+        "url": " https://cdn-live.dltv.ac.th/dltv01.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 283,
+        "image": " https://i.imgur.com/lDBSTfE.png",
+        "name": " DLTV 2 ",
+        "url": " https://cdn-live.dltv.ac.th/dltv02.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 284,
+        "image": " https://i.imgur.com/wmrxerm.png",
+        "name": " DLTV 3 ",
+        "url": " https://cdn-live.dltv.ac.th/dltv03.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 285,
+        "image": " https://i.imgur.com/WkpoQhU.png",
+        "name": " DLTV 4 ",
+        "url": " https://cdn-live.dltv.ac.th/dltv04.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 286,
+        "image": " https://i.imgur.com/J1E89jX.png",
+        "name": " DLTV 5 ",
+        "url": " https://cdn-live.dltv.ac.th/dltv05.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 287,
+        "image": " https://i.imgur.com/qeIHWC0.png",
+        "name": " DLTV 6 ",
+        "url": " https://cdn-live.dltv.ac.th/dltv06.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 288,
+        "image": " https://i.imgur.com/OjYwMe3.png",
+        "name": " DLTV 7 ",
+        "url": " https://cdn-live.dltv.ac.th/dltv07.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 289,
+        "image": " https://i.imgur.com/xIwn5Ha.png",
+        "name": " DLTV 8 ",
+        "url": " https://cdn-live.dltv.ac.th/dltv08.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 290,
+        "image": " https://i.imgur.com/yPeSAry.png",
+        "name": " DLTV 9 ",
+        "url": " https://cdn-live.dltv.ac.th/dltv09.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 291,
+        "image": " https://i.imgur.com/TgN81Zr.png",
+        "name": " DLTV 10 ",
+        "url": " https://cdn-live.dltv.ac.th/dltv10.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 292,
+        "image": " https://i.imgur.com/hFk2b5s.png",
+        "name": " DLTV 11 ",
+        "url": " https://cdn-live.dltv.ac.th/dltv11.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 293,
+        "image": " https://i.imgur.com/ITt6lY7.png",
+        "name": " DLTV 12 ",
+        "url": " https://cdn-live.dltv.ac.th/dltv12.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 294,
+        "image": " https://i.imgur.com/asB5w3v.png",
+        "name": " DLTV 13 ",
+        "url": " https://cdn-live.dltv.ac.th/dltv13.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 295,
+        "image": " https://i.imgur.com/HOjZRNS.png",
+        "name": " DLTV 14 ",
+        "url": " https://cdn-live.dltv.ac.th/dltv14.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 296,
+        "image": " https://i.imgur.com/onJi2b6.png",
+        "name": " DLTV 15 ",
+        "url": " https://cdn-live.dltv.ac.th/dltv15.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 297,
+        "image": " https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png",
+        "name": " EBS 1 ",
+        "url": " https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 298,
+        "image": " https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png",
+        "name": " EBS 2 ",
+        "url": " https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 299,
+        "image": " https://i.imgur.com/5wLJzb0.png",
+        "name": " EBS E ",
+        "url": " https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 300,
+        "image": " https://i.imgur.com/aCeuhon.png",
+        "name": " EBS+ 1 ",
+        "url": " https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 301,
+        "image": " https://i.imgur.com/pllIMGi.png",
+        "name": " EBS+ 2 ",
+        "url": " https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 302,
+        "image": " https://i.imgur.com/lY9Bx2u.png",
+        "name": " EducaTV ",
+        "url": " https://vid2.ecuamedia.net/educatv/live/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 303,
+        "image": " https://i.imgur.com/ppBdqel.png",
+        "name": " Eduvision ",
+        "url": " https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 304,
+        "image": " https://i.imgur.com/gAQVPTV.png",
+        "name": " Faculty TV ",
+        "url": " https://stream-server9-jupiter.muxlive.com/hls/facultytv/index.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 305,
+        "image": " https://i.imgur.com/O0sYOED.png",
+        "name": " Fresno CMAC 2 Education Channel ",
+        "url": " https://reflect-vod-cmac.cablecast.tv/live-12/live/live.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 306,
+        "image": " https://i.imgur.com/AYzdlMz.png",
+        "name": " Haddam Killingworth High School TV ",
+        "url": " https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 307,
+        "image": " https://i.imgur.com/2WirGqb.png",
+        "name": " Inti TV ",
+        "url": " https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 308,
+        "image": " https://i.imgur.com/1V3UXVb.jpg",
+        "name": " iSTUFF ",
+        "url": " https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 309,
+        "image": " https://i.imgur.com/RUKVrOH.png",
+        "name": " ISTV ",
+        "url": " https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 310,
+        "image": " https://i.imgur.com/YFVrphZ.png",
+        "name": " KBEV Spectrum Channel 6 ",
+        "url": " https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 311,
+        "image": " https://i.imgur.com/ZAypRkk.png",
+        "name": " KCAT Public Media TV ",
+        "url": " https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 312,
+        "image": " https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png",
+        "name": " KCPT-DT1 ",
+        "url": " https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 313,
+        "image": " https://i.imgur.com/kj4OEsb.png",
+        "name": " KITE Victers ",
+        "url": " https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 314,
+        "image": " https://i.imgur.com/zyh8yub.png",
+        "name": " L'Esprit Sorcier TV ",
+        "url": " https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 315,
+        "image": " https://i.imgur.com/Hf122ZD.png",
+        "name": " Liceum TV ",
+        "url": " http://193.225.32.62:8890/live.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 316,
+        "image": " https://i.imgur.com/JxTzUEq.png",
+        "name": " Los Angeles Local Television Channel 36 ",
+        "url": " https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 317,
+        "image": " https://i.imgur.com/x0lJqSp.png",
+        "name": " Manatee Schools Television MSTV ",
+        "url": " https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 318,
+        "image": " https://i.imgur.com/RPJiolQ.png",
+        "name": " Midpen Media Center Youth Education and Sports Channel 28 ",
+        "url": " https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 319,
+        "image": " https://i.imgur.com/qo5sk1g.png",
+        "name": " Mobile County Public Schools TV Network ",
+        "url": " https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 320,
+        "image": " https://i.imgur.com/6GtlOSi.png",
+        "name": " Napa Valley TV Education Access Channel 27 ",
+        "url": " https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_003/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 321,
+        "image": " https://i.imgur.com/iv9Vfcb.png",
+        "name": " Nashua ETV Channel 22 Nashua NH",
+        "url": " https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 322,
+        "image": " https://i.imgur.com/pOSroOE.png",
+        "name": " NBS Korea Agricultural Broadcasting ",
+        "url": " https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 323,
+        "image": " https://i.imgur.com/NnkSyta.png",
+        "name": " NTV ",
+        "url": " https://marine2.miplay.cl/ntv/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 324,
+        "image": " https://i.imgur.com/K0351vF.png",
+        "name": " Once México ",
+        "url": " https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 325,
+        "image": " https://i.imgur.com/XnxPIqn.png",
+        "name": " Orange County Vision TV ",
+        "url": " https://otv3.ocfl.net/VisionTV/smil:VisionTV.smil/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 326,
+        "image": " https://i.imgur.com/H10qamt.png",
+        "name": " Paryawaran TV ",
+        "url": " https://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 327,
+        "image": " https://i.imgur.com/U9HFzJk.png",
+        "name": " PBS KET Louisville KY ",
+        "url": " https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 328,
+        "image": " https://i.imgur.com/ambc9le.png",
+        "name": " PBS Kids Eastern/Central ",
+        "url": " https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 329,
+        "image": " https://i.imgur.com/djT0Q8q.png",
+        "name": " Poudre School District TV ",
+        "url": " https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 330,
+        "image": " https://i.imgur.com/ICcQUCH.png",
+        "name": " Red Apple 21 ",
+        "url": " https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 331,
+        "image": " https://i.imgur.com/KxYsq1d.png",
+        "name": " Santa Cecilia TV ",
+        "url": " http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 332,
+        "image": " https://i.imgur.com/4Autljp.png",
+        "name": " Santa Maria Community Television Education Channel ",
+        "url": " https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 333,
+        "image": " https://i.imgur.com/LbZkdca.png",
+        "name": " Señal España ",
+        "url": " https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 334,
+        "image": " https://i.imgur.com/dbJKErB.png",
+        "name": " SET Televisión Canal 26.2 ",
+        "url": " http://189.240.210.28:1935/live/setpuebla/playlist.m3u8"
+    },
+    {
+        "category": "education",
+        "id": 335,
+        "image": " https://i.imgur.com/Lsy31iZ.jpeg",
+        "name": " Shams TV",
+        "url": " https://fflive-darya-educationtv.b-cdn.net/master.m3u8"
+    },
+    {
+        "category": "auto",
+        "id": 336,
+        "image": " https://i.imgur.com/SZtJfOG.png",
+        "name": " 100% Auto Moto TV ",
+        "url": " http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8"
+    },
+    {
+        "category": "auto",
+        "id": 337,
+        "image": " https://i.imgur.com/nCAt3QN.png",
+        "name": " Canal Motor ",
+        "url": " https://digicom.hls.iptvdc.com/canalmotor/index.m3u8"
+    },
+    {
+        "category": "auto",
+        "id": 338,
+        "image": " https://i.imgur.com/U6cu5Ms.png",
+        "name": " Choppertown ",
+        "url": " https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8"
+    },
+    {
+        "category": "auto",
+        "id": 339,
+        "image": " https://i.imgur.com/2Q6TENm.png",
+        "name": " Fun Roads TV ",
+        "url": " https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8"
+    },
+    {
+        "category": "auto",
+        "id": 340,
+        "image": " https://i.imgur.com/FqFxog1.png",
+        "name": " Garage TV Latin America",
+        "url": " https://stream1.sersat.com/hls/garagetv.m3u8"
+    },
+    {
+        "category": "auto",
+        "id": 341,
+        "image": " https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png",
+        "name": " Retro TV ",
+        "url": " https://cdn.igocast.com/channel9_hls/channel9_master.m3u8"
+    },
+    {
+        "category": "auto",
+        "id": 342,
+        "image": " https://i.imgur.com/gWJ1lN8.png",
+        "name": " RPM ",
+        "url": " https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 343,
+        "image": " https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg",
+        "name": " 1KZN TV ",
+        "url": " https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 344,
+        "image": " https://yt3.googleusercontent.com/ytc/AIdro_nZG4BRWT5t0eCtM-SFVh0JMexLekw0evo-J4_S8Bw3YA=s512-c-k-c0x00ffffff-no-rj",
+        "name": " 3 Tamil TV ",
+        "url": " https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 345,
+        "image": " https://i.imgur.com/PexhKwp.png",
+        "name": " 4U TV ",
+        "url": " https://hls.4utv.live/hls/stream.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 346,
+        "image": " https://i.imgur.com/jrGrfof.png",
+        "name": " 5AAB TV ",
+        "url": " http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 347,
+        "image": " https://i.imgur.com/4EHL2mH.png",
+        "name": " 5 Plus ",
+        "url": " https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 348,
+        "image": " https://i.imgur.com/Wuy9Vtn.png",
+        "name": " 7 TV",
+        "url": " http://v4.proofix.ru/7tv-live/tracks-v1a1/index.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 349,
+        "image": " https://i.imgur.com/zmnSoBA.png",
+        "name": " 9 Волна ",
+        "url": " http://cdn-01.bonus-tv.ru/9volna/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 350,
+        "image": " https://i.imgur.com/HSdwqZN.png",
+        "name": " 30A Sidewalks ",
+        "url": " https://30a-tv.com/sidewalks.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 351,
+        "image": " https://i.ibb.co/S6sZvqk/iLSGi6c.png",
+        "name": " 312 ТВ ",
+        "url": " http://176.126.166.43:1935/live/312musik/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 352,
+        "image": " https://i.imgur.com/c2HLI3k.png",
+        "name": " 504 TV ",
+        "url": " https://mediacp.us:8081/504tvhn/index.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 353,
+        "image": " https://i.imgur.com/KtXQeeZ.png",
+        "name": " Ace TV ",
+        "url": " https://cdn.igocast.com/channel3_hls/channel3_master.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 354,
+        "image": " https://i.imgur.com/7aIab2r.png",
+        "name": " ACS Network ",
+        "url": " https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 355,
+        "image": " https://i.imgur.com/jvnkrEF.png",
+        "name": " AfroLandTV ",
+        "url": " https://alt-al.otteravision.com/alt/al/al.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 356,
+        "image": " https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
+        "name": " Aguacate TV ",
+        "url": " https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 357,
+        "image": " https://i.imgur.com/W6jg8iM.png",
+        "name": " Alföld TV ",
+        "url": " https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 358,
+        "image": " https://alternatv.ar/alternatv.png",
+        "name": " AlternaTV ",
+        "url": " https://alternatv.ar/stream/hls/live.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 359,
+        "image": " https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/512",
+        "name": " Amarin TV",
+        "url": " http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 360,
+        "image": " https://i.imgur.com/Gtwk8ic.png",
+        "name": " AMC Absolute Reality",
+        "url": " https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 361,
+        "image": " https://i.imgur.com/K9o3mLP.png",
+        "name": " América TeVé ",
+        "url": " https://live.gideo.video/americateve2/master.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 362,
+        "image": " https://i.imgur.com/WdSjlPl.png",
+        "name": " Amrita TV ",
+        "url": " https://dr1zhpsuem5f4.cloudfront.net/master.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 363,
+        "image": " https://i.imgur.com/xjTU14t.jpg",
+        "name": " ANC Televisión ",
+        "url": " https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 364,
+        "image": " https://i.imgur.com/hvGJ2oa.png",
+        "name": " Anixe + ",
+        "url": " https://ma.anixa.tv/clips/stream/anixesd/index.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 365,
+        "image": " https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/512px-Anixe_HD.svg.png",
+        "name": " Anixe HD Serie ",
+        "url": " https://ma.anixa.tv/clips/stream/anixehd/index.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 366,
+        "image": " https://i.imgur.com/sh0yFSf.png",
+        "name": " Anjan ",
+        "url": " https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 367,
+        "image": " https://i.imgur.com/2KAObBt.png",
+        "name": " ANT1 Cyprus ",
+        "url": " http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 368,
+        "image": " https://i.imgur.com/05gwtk2.png",
+        "name": " Antares Televisión ",
+        "url": " https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 369,
+        "image": " https://i.imgur.com/IM4D8Wz.png",
+        "name": " Apna Punjab TV ",
+        "url": " https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 370,
+        "image": " https://i.imgur.com/hW6z1RG.png",
+        "name": " AsianCrush",
+        "url": " https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 371,
+        "image": " https://i.imgur.com/8TR4noi.png",
+        "name": " AVA ",
+        "url": " https://live-fi.tvkaista.net/ava/live.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 372,
+        "image": " https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png",
+        "name": " Azteca Internacional ",
+        "url": " https://azt-mun.otteravision.com/azt/mun/mun.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 373,
+        "image": " https://i.imgur.com/UDyxgXf.png",
+        "name": " Balkan Radio Salzburg ",
+        "url": " https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 374,
+        "image": " https://i.imgur.com/egK33Dj.png",
+        "name": " BE@TTV ",
+        "url": " https://tv.beatfm.nl/live.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 375,
+        "image": " https://i.imgur.com/XqQ3kCs.png",
+        "name": " Bellavisión ",
+        "url": " https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 376,
+        "image": " https://i.imgur.com/DUAjjvT.png",
+        "name": " BEN Television ",
+        "url": " https://webstreaming-11.viewmedia.tv/web_153/Stream/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 377,
+        "image": " https://i.imgur.com/dDQJUEl.png",
+        "name": " Biso TV ",
+        "url": " https://tnt-television.com/BISO_TV/index.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 378,
+        "image": " https://i.imgur.com/tsajuxi.png",
+        "name": " Buena TV ",
+        "url": " https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 379,
+        "image": " https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png",
+        "name": " Buzzr ",
+        "url": " https://buzzr-roku-us.amagi.tv/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 380,
+        "image": " https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png",
+        "name": " Buzzr ",
+        "url": " https://cdn.igocast.com/channel1_hls/channel1_master.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 381,
+        "image": " https://i.imgur.com/FMrB17k.png",
+        "name": " Canal 9 Ixchiguán ",
+        "url": " https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 382,
+        "image": " https://i.imgur.com/wNSUMhJ.png",
+        "name": " Canal 14 Codazzi ",
+        "url": " https://eu1.servers10.com:8081/8056/index.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 383,
+        "image": " https://i.imgur.com/QQNcob1.png",
+        "name": " Canal 15 DTP ",
+        "url": " https://s.emisoras.tv:8081/dtp/index.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 384,
+        "image": " https://i.imgur.com/mdYIKyt.png",
+        "name": " Canal Chilote",
+        "url": " https://oracle.streaminghd.cl/canalchilote/canalchilote/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 385,
+        "image": " https://www.bejart.ch/wp-content/uploads//carac-400x304.png",
+        "name": " Carac 1 ",
+        "url": " https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 386,
+        "image": " https://www.bejart.ch/wp-content/uploads//carac-400x304.png",
+        "name": " Carac 4 ",
+        "url": " https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 387,
+        "image": " https://i.imgur.com/YgLMMOr.png",
+        "name": " CeeJay TV ",
+        "url": " https://asiakwa.com/ceejaytv/index.fmp4.m3u8"
+    },
+    {
+        "category": "entertainment",
+        "id": 388,
+        "image": " https://i.imgur.com/XeWzy7e.png",
+        "name": " CG Entertainment",
+        "url": " https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8"
+    }
+]
