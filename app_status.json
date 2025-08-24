@@ -1,5 +1,12 @@
 {
-    "battleAsiaPubg": false,
-     "srEsports": false,
-    "classBank":false
+  "battleAsiaPubg": false,
+
+  "srEsports": false,
+
+  "classBank": false,
+
+  "clashArenaUser": false,
+
+  "clashArenaAdmin": false
+
 }
