@@ -12,6 +12,7 @@
   "cmffbdclub":false ,
   
   "superEarning" : false,
-  "superEarningAdmin":true
+  "superEarningAdmin":true,
+  "super_earning_admin":false
 
 }
